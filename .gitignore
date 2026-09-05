@@ -1,0 +1,71 @@
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+*.pid.lock
+logs/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+*.local
+
+# Dependencies and package-manager caches
+node_modules/
+vendor/
+.npm/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.pnpm-store/
+
+# Build and coverage output
+dist/
+build/
+out/
+target/
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.turbo/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+

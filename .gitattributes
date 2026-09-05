@@ -1,0 +1,68 @@
+# Normalize text files to LF
+* text=auto eol=lf
+
+# Common source and configuration files
+*.c      text
+*.cc     text
+*.cpp    text
+*.css    text
+*.csv    text
+*.go     text
+*.h      text
+*.hpp    text
+*.html   text
+*.java   text
+*.js     text
+*.json   text
+*.jsx    text
+*.md     text
+*.py     text
+*.rb     text
+*.rs     text
+*.sh     text eol=lf
+*.sql    text
+*.svg    text
+*.toml   text
+*.ts     text
+*.tsx    text
+*.txt    text
+*.vue    text
+*.xml    text
+*.yaml   text
+*.yml    text
+
+# Windows scripts
+*.bat    text eol=crlf
+*.cmd    text eol=crlf
+*.ps1    text eol=crlf
+
+# Binary files
+*.7z     binary
+*.avi    binary
+*.bmp    binary
+*.dll    binary
+*.doc    binary
+*.docx   binary
+*.eot    binary
+*.gif    binary
+*.ico    binary
+*.jar    binary
+*.jpeg   binary
+*.jpg    binary
+*.mov    binary
+*.mp3    binary
+*.mp4    binary
+*.pdf    binary
+*.png    binary
+*.psd    binary
+*.so     binary
+*.tar    binary
+*.ttf    binary
+*.webm   binary
+*.webp   binary
+*.woff   binary
+*.woff2  binary
+*.xls    binary
+*.xlsx   binary
+*.zip    binary
+
