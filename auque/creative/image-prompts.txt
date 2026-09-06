@@ -1,0 +1,56 @@
+ASSET 1: auque-campaign-hero
+
+Use case: ads-marketing
+Asset type: Luxury fashion and high jewelry website campaign hero, wide 16:9.
+Primary request: Original cinematic editorial photograph for AUQUE, a luxury concept brand defined by artistic sensuality, monumental bright palatial luxury, and bespoke limited creations.
+Scene/backdrop: A bright ornate ivory and gilded palace, exquisite mirrors, monumental arches and chandeliers, luminous natural sunlight, dreamy ethereal pale gold atmosphere.
+Subject: An exquisite adult 22-year-old Korean female fashion model wearing an ivory couture silk gown and an extravagant sculptural crown-inspired diamond necklace. Calm commanding expression, poised and refined sensual attitude, fully dressed.
+Style/medium: Sophisticated high fashion editorial photography with natural realistic skin, exquisite silk and diamond textures, photorealistic.
+Composition/framing: Wide 16:9 cinematic frame. Place the model in the right third, half-body or three-quarter portrait. Left side contains generous palace negative space with calm tonal areas for a future large headline. Do not render the headline.
+Lighting/mood: Beautiful daylight, pale champagne reflections, luminous dimensional soft shadows, monumental elegance.
+Color palette: Cohesive ivory, cream, platinum diamonds, pale champagne gold.
+Constraints: One adult model only. No text, logos, or watermarks. No fantasy CGI aesthetic.
+
+
+ASSET 2: auque-crown-collar
+
+Use case: product-mockup
+Asset type: Portrait 4:5 high jewelry editorial product photograph.
+Primary request: Original AUQUE high jewelry concept: an extravagant sculptural platinum and diamond crown-inspired collar necklace, a bespoke limited creation with approximately KRW 100 million positioning.
+Scene/backdrop: A creamy sculptural stone plinth in a palace-inspired warm ivory setting, subtle gilded architectural details in soft focus.
+Subject: A spectacular freestanding collar necklace with an artfully architectural crown-inspired silhouette, faceted diamonds set in finely crafted platinum, extraordinarily detailed jewelry craftsmanship.
+Style/medium: Refined luxury editorial product photography, photographic material realism, precise diamond facets and polished metal details.
+Composition/framing: Portrait 4:5, necklace prominently centered and fully visible, on the creamy stone plinth, elegant breathing room.
+Lighting/mood: Natural sunlight, luminous pale champagne reflections, controlled photographic sparkle, soft dimensional shadows.
+Color palette: Cohesive ivory, cream, platinum diamonds, pale champagne gold.
+Constraints: No people, text, logos, or watermarks. No fantasy CGI aesthetic.
+
+
+ASSET 3: auque-high-jewelry-watch
+
+Use case: product-mockup
+Asset type: Portrait 4:5 high jewelry watch editorial product photograph.
+Primary request: Original AUQUE women's haute joaillerie watch, a bespoke limited creation with approximately KRW 100 million positioning.
+Scene/backdrop: Creamy palace marble background with softly blurred pale gold architectural details.
+Subject: An exquisite women's jewelry watch with an elongated emerald-cut pale champagne face set within sculptural faceted diamonds, delicate refined watch hands, and a platinum bracelet. Precious stones and metal are extraordinarily detailed and tactile.
+Style/medium: Refined high luxury editorial closeup photograph, realistic watchmaking and gem-setting craftsmanship.
+Composition/framing: Portrait 4:5 frame, watch as sole dominant product, face clearly readable as a watch, bracelet elegantly arranged on marble.
+Lighting/mood: Natural sunlight and soft reflected pale champagne light, luminous crystal facets, controlled sparkle, soft dimensional shadows.
+Color palette: Cohesive ivory, cream, platinum diamonds, pale champagne gold.
+Constraints: No people, text, logos, or watermarks. No fantasy CGI aesthetic.
+
+
+ASSET 4: auque-crystal-perfume
+
+Use case: product-mockup
+Asset type: Portrait 4:5 luxury perfume editorial product photograph.
+Primary request: Original AUQUE concept perfume in a luminous faceted crystal flacon with pale champagne juice and an elegant sculptural crown-like gold cap.
+Scene/backdrop: Ivory marble with soft pale gold palace details, bright elegant monumental interior suggested in the background.
+Subject: An exquisitely crafted faceted clear crystal perfume bottle, pale champagne liquid, elegant crown-like sculptural gold stopper, small clear label with the word "AUQUE" in refined understated lettering. If accurate lettering cannot be achieved, omit all text instead.
+Style/medium: Photorealistic high luxury editorial product photography, tactile crystal refraction and polished gold, exceptional material detail.
+Composition/framing: Portrait 4:5 frame, complete bottle and cap prominently centered, elegant breathing room.
+Lighting/mood: Natural sunlight, luminous optical reflections and refractions, soft dimensional shadows.
+Color palette: Cohesive ivory, cream, clear crystal, pale champagne gold.
+Text (verbatim): "AUQUE", small clear label, no additional text.
+Constraints: No people or watermarks. No fantasy CGI aesthetic.
+

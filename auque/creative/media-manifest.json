@@ -1,0 +1,60 @@
+{
+  "film": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\auque-the-art-of-desire-1080p.mp4",
+  "web_images": {
+    "hero": {
+      "source": "C:\\Users\\kskks\\.codex\\generated_images\\01a070ae-4281-7cd0-a7ed-c2c2b1167717\\exec-03835045-cfde-4ac8-b53e-ad83c2df8b43.png",
+      "width": 1672,
+      "height": 941,
+      "jpeg": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-hero.jpg",
+      "jpeg_bytes": 308692,
+      "webp": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-hero.webp",
+      "webp_bytes": 148366
+    },
+    "necklace": {
+      "source": "C:\\Users\\kskks\\.codex\\generated_images\\01a070ae-4281-7cd0-a7ed-c2c2b1167717\\exec-9a9a4eb8-fc06-4464-8db1-fab72ed9bcf0.png",
+      "width": 1122,
+      "height": 1402,
+      "jpeg": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-necklace.jpg",
+      "jpeg_bytes": 466617,
+      "webp": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-necklace.webp",
+      "webp_bytes": 331858
+    },
+    "watch": {
+      "source": "C:\\Users\\kskks\\.codex\\generated_images\\01a070ae-4281-7cd0-a7ed-c2c2b1167717\\exec-d4d4bdf5-7fa0-4ab7-8c60-63fab23f516a.png",
+      "width": 1122,
+      "height": 1402,
+      "jpeg": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-watch.jpg",
+      "jpeg_bytes": 398779,
+      "webp": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-watch.webp",
+      "webp_bytes": 251002
+    },
+    "perfume": {
+      "source": "C:\\Users\\kskks\\.codex\\generated_images\\01a070ae-4281-7cd0-a7ed-c2c2b1167717\\exec-05ed68c1-5366-4138-b063-6b6dce602929.png",
+      "width": 1122,
+      "height": 1402,
+      "jpeg": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-perfume.jpg",
+      "jpeg_bytes": 344380,
+      "webp": "C:\\Users\\kskks\\.codex\\generated_images\\auque-delivery-20260905\\web\\auque-perfume.webp",
+      "webp_bytes": 186946
+    }
+  },
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 540,
+    "duration_seconds": 18.0,
+    "pixel_format": "yuv420p",
+    "audio": false,
+    "bytes": 8748010,
+    "full_decode_verified": true,
+    "scenes": [
+      "hero",
+      "necklace",
+      "watch",
+      "perfume",
+      "hero"
+    ]
+  }
+}
