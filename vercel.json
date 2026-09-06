@@ -1,5 +1,6 @@
 {
   "version": 2,
   "installCommand": "npm install --prefix auque",
-  "buildCommand": "cd auque && NITRO_PRESET=vercel npx vite build && cp -R .vercel ../.vercel"
+  "buildCommand": "cd auque && NITRO_PRESET=vercel npx vite build",
+  "outputDirectory": "auque/.vercel/output"
 }
