@@ -36,6 +36,9 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/\.vercel/
+/.nitro/
+/.output/
 *.tsbuildinfo
 /creative/film-check-*.jpg
 /creative/ffmpeg-render.log
