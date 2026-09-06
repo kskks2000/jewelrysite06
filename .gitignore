@@ -48,6 +48,7 @@ target/
 coverage/
 .nyc_output/
 .cache/
+.vercel/
 .parcel-cache/
 .turbo/
 
@@ -68,4 +69,3 @@ env/
 *.swp
 *.swo
 *~
-
